@@ -25,17 +25,6 @@
             "includeVars": true,
             "keepTime": true,
             "tags": [
-                "MySQL"
-            ],
-            "targetBlank": true,
-            "title": "MySQL",
-            "type": "dashboards"
-        },
-        {
-            "asDropdown": true,
-            "includeVars": true,
-            "keepTime": true,
-            "tags": [
                 "Insight"
             ],
             "targetBlank": true,
